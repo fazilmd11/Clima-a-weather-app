@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://user-images.githubusercontent.com/87140247/155204143-d4136bd1-bcff-4bc7-b28f-a36c1e21229b.jpeg" width="350" alt="screenshot of clima">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
