@@ -2,7 +2,13 @@
 
 A new Flutter project.
 
+<div>
+<img src="https://user-images.githubusercontent.com/87140247/155383448-a76133d4-cb69-4ed3-ab07-038f2dc9e2a3.jpeg" width="350" alt="screenshot of clima">
 <img src="https://user-images.githubusercontent.com/87140247/155204143-d4136bd1-bcff-4bc7-b28f-a36c1e21229b.jpeg" width="350" alt="screenshot of clima">
+</div>
+
+Data provided by openweathermap.org
+
 
 ## Getting Started
 
